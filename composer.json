@@ -1,0 +1,24 @@
+{
+  "name": "benmanu/silverstripe-knowledgebase-rating",
+  "description": "An addon module for knowledgebase that allows users to like/dislike to FAQ's.",
+  "type": "silverstripe-module",
+  "homepage": "https://github.com/benmanu/silverstripe-knowledgebase-rating",
+  "keywords": ["silverstripe", "search", "knowledgebase", "like", "dislike", "rating", "faq", "solr"],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {"name": "Ben Manu","email": "ben@silverstripe.com"},
+    {"name": "Tim Kung","email": "tkung@silverstripe.com"}
+  ],
+  "support": {
+    "issues": "https://github.com/benmanu/silverstripe-knowledgebase-rating/issues"
+  },
+  "require": {
+    "silverstripe/cms": "~3.1",
+    "silverstripe/framework": "~3.1",
+    "benmanu/silverstripe-knowledgebase": "*",
+    "sheadawson/silverstripe-rateable": "2.0"
+  },
+  "extra": {
+    "installer-name": "knowledgebase-rating"
+  }
+}

@@ -1,0 +1,7 @@
+Rating:
+  extensions:
+    - KBRatingExtension
+
+FAQ:
+  extensions:
+    - KBFaqExtension

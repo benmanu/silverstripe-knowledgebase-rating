@@ -1,0 +1,4 @@
+---
+Name: knowledgebase-rating
+After: 'knowledgebase/*'
+---
